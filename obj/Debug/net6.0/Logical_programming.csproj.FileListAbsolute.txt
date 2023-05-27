@@ -1,0 +1,15 @@
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\bin\Debug\net6.0\Logical_programming.exe
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\bin\Debug\net6.0\Logical_programming.deps.json
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\bin\Debug\net6.0\Logical_programming.runtimeconfig.json
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\bin\Debug\net6.0\Logical_programming.dll
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\bin\Debug\net6.0\Logical_programming.pdb
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.csproj.AssemblyReference.cache
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.AssemblyInfoInputs.cache
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.AssemblyInfo.cs
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.csproj.CoreCompileInputs.cache
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.dll
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\refint\Logical_programming.dll
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.pdb
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\Logical_programming.genruntimeconfig.cache
+C:\Users\r\Desktop\Bridge_labz\Logical_programming\obj\Debug\net6.0\ref\Logical_programming.dll
